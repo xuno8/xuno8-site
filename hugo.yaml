@@ -63,7 +63,7 @@ params:
 
     sidebar:
         # emoji: 🚾
-        subtitle: maintenancing...
+        subtitle: in maintenance...
         avatar:
             enabled: true
             local: true
