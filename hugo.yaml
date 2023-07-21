@@ -26,7 +26,12 @@ title: xuno的小窩
 disqusShortname: hugo-theme-stack
 
 # GA Tracking ID
-googleAnalytics:
+googleAnalytics: G-MLMJ6MT4V4
+
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
 
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
@@ -245,3 +250,4 @@ markup:
         lineNos: true
         lineNumbersInTable: true
         tabWidth: 4
+
