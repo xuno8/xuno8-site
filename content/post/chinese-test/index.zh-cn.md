@@ -45,4 +45,4 @@ categories:
 ![Photo by Helena Hertz on Unsplash](helena-hertz-wWZzXlDpMog-unsplash.jpg)  ![Photo by Hudai Gayiran on Unsplash](hudai-gayiran-3Od_VKcDEAA-unsplash.jpg)
 ```
 
-相簿語法來自 [Typlog](https://typlog.com/)
+相簿語法來自 [Typlog](https://docs.typlog.com/en/article/markdown-images/)
