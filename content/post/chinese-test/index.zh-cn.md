@@ -1,12 +1,11 @@
 ---
 title: Chinese Test
 description: this is 副標題
-date: 2020-09-09
+date: 2019-09-09
 slug: test-chinese
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
     - Test
-    - 測試
 ---
 
 ## 正文測試
