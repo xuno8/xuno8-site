@@ -63,7 +63,7 @@ params:
 
     sidebar:
         # emoji: 🚾
-        subtitle: 偷偷的在這邊桑貝比...
+        subtitle: 安安
         avatar:
             enabled: true
             local: true
