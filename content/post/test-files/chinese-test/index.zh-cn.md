@@ -3,6 +3,7 @@ title: Chinese Test
 description: this is 副標題
 date: 2019-09-09
 slug: test-chinese
+draft: true
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
     - Test

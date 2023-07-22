@@ -6,6 +6,7 @@ description: A brief guide to setup KaTeX
 math: true
 categories:
     - Test
+draft: true
 ---
 
 Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
