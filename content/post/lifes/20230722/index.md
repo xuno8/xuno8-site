@@ -4,6 +4,7 @@ date: 2023-07-22T23:41:23+08:00
 draft: false
 categories:
     - lifes
+image: IMG_8190.jpg
 ---
 今天去台北國際會議中心看藤井風演唱會  
 一進去發現場地還蠻大的==  

@@ -4,6 +4,7 @@ date: 2023-07-23T00:48:05+08:00
 draft: false
 categories: 
     - games
+image: IMG_7440.JPG
 ---
 
 先上音樂  
