@@ -24,7 +24,7 @@ menu:
 
 ![](imgs/img16.jpg)![](imgs/img18.jpg)
 
-![](imgs/img15.jpg)![](imgs/img17.jpg)
+![](imgs/img15.jpg)![](imgs/img17.jpg)![](imgs/img27.jpg)
 
 ![](imgs/img19.jpg)![](imgs/img23.jpg)
 
@@ -32,4 +32,4 @@ menu:
 
 ![](imgs/img22.jpg)![](imgs/img24.jpg)
 
-![](imgs/img25.jpg)![](imgs/img26.jpg)
+![](imgs/img25.jpg)![](imgs/img26.jpg)![](imgs/img28.jpg)
